@@ -4,7 +4,7 @@ body {
     padding: 0 2%;
     margin: 0;
     font-family: 'Noto Sans JP', sans-serif;
-    background-image: url('solsad.jpg');
+    background-image: url("solsad.jpg");
     background-size: cover;
     background-position: center;
 }
